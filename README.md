@@ -6,5 +6,6 @@ Le projet a été développé avec Next.js, React, TypeScript et Tailwind CSS, a
 ## Aperçu du projet
 Atelier Maison est un site vitrine conçu pour présenter l'identité, les expertises et les réalisations d'une agence d'architecture intérieure.
 
-L'objectif est de proposer une expérience visuelle élégante et intuitive, tout en facilitant la prise de contact avec les visiteurs..
+L'objectif est de proposer une expérience visuelle élégante et intuitive, tout en facilitant la prise de contact avec les visiteurs.
+https://atelier-maison-eight.vercel.app/
 
