@@ -28,7 +28,7 @@ const socials = [
 
 export default function Footer() {
   return (
-    <footer className="bg-stone-950 px-6 py-16 h-94 text-white sm:py-12 lg:px-12">
+    <footer className="bg-stone-950 px-6 py-16 sm:h-94 text-white sm:py-12 lg:px-12">
         <div className="mx-auto max-w-7xl">
 
             {/* Accroche et contact */}
